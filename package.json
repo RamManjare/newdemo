@@ -1,0 +1,23 @@
+{
+  "name": "newdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamManjare/newdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamManjare/newdemo/issues"
+  },
+  "homepage": "https://github.com/RamManjare/newdemo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
